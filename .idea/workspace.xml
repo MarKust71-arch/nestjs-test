@@ -26,12 +26,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39a57b43-118b-4bf9-87bf-4ef5d293ae9a" name="Default Changelist" comment="chgw">
-      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/mail.controller.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/mail.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.prettierrc" beforeDir="false" afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/.prettierrc" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.prettierrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/src/app.controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/app.controller.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/app.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/src/app.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/app.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/backend/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +42,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="HARD" />
     <option name="ROOT_SYNC" value="SYNC" />
@@ -60,7 +68,7 @@
     <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/Yarn/Data/global/node_modules/prettier" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/backend/src" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -74,6 +82,9 @@
     <property name="ts.external.directory.path" value="D:\GitHub\MarKust71-arch\nestjs-test\backend\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GitHub\MarKust71-arch\nestjs-test\backend\src" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\GitHub\MarKust71-arch\nestjs-test\backend" />
       <recent name="D:\GitHub\MarKust71-arch\nestjs-test" />
@@ -126,7 +137,7 @@
       <workItem from="1589737049899" duration="187000" />
       <workItem from="1589737274703" duration="5230000" />
       <workItem from="1589743927248" duration="4829000" />
-      <workItem from="1589748953203" duration="972000" />
+      <workItem from="1589748953203" duration="9298000" />
     </task>
     <task id="LOCAL-00001" summary="chgw">
       <created>1589743079628</created>
@@ -170,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589749428666</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="email - 1st preparation">
+      <created>1589750074389</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1589750074389</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,13 +228,22 @@
     <MESSAGE value="nest added" />
     <MESSAGE value="workspace.xml" />
     <MESSAGE value="nest added again" />
-    <option name="LAST_COMMIT_MESSAGE" value="nest added again" />
+    <MESSAGE value="email - 1st preparation" />
+    <option name="LAST_COMMIT_MESSAGE" value="email - 1st preparation" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589745638151">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="414" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589745638151" />
+    <state x="734" y="327" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589757866238">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="734" y="327" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589757866238" />
+    <state x="690" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589756201260">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="690" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589756201260" />
     <state x="563" y="91" key="CommitChangelistDialog2" timestamp="1589743327471">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -233,22 +260,22 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="820" y="447" key="Github.Dialog.Accounts.Choose/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589749111577" />
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1589749396893">
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1589759534033">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589749396893" />
-    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1589749396893">
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589759534033" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1589759534032">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589749396893" />
-    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1589749396893">
+    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589759534032" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1589759534032">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589749396893" />
-    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1589749396893">
+    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589759534032" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1589759534032">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589749396893" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589759534032" />
     <state x="184" y="96" key="MergeDialog" timestamp="1589743316630">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -257,6 +284,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="848" y="393" width="223" height="282" key="MultipleFileMergeDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589743316638" />
+    <state x="744" y="227" key="RollbackChangesDialog" timestamp="1589754760461">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="744" y="227" key="RollbackChangesDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589754760461" />
     <state x="461" y="170" key="SettingsEditor" timestamp="1589746200432">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -265,13 +296,17 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="807" y="439" key="VCS.ChangelistChooser/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589743425022" />
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1589749444390">
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1589750088482">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589749444390" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589750088482" />
     <state x="731" y="406" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1589741127129">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="731" y="406" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589741127129" />
+    <state x="616" y="243" key="run.anything.popup" timestamp="1589751192624">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="616" y="243" key="run.anything.popup/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589751192624" />
   </component>
 </project>

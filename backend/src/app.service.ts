@@ -5,7 +5,4 @@ export class AppService {
   getHello(): string {
     return 'Hello World!';
   }
-  sendEmail(): string {
-    return 'to kiedyś wyśle emaila';
-  }
 }
