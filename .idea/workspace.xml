@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="39a57b43-118b-4bf9-87bf-4ef5d293ae9a" name="Default Changelist" comment="chgw">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/nestjs-test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+    </list>
+    <list id="ae3f2221-e524-45b1-a413-2ec6a7a99c2a" name="Revert &quot;parcel and nestjs&quot;" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="67bba85a-b923-410d-bc24-cdf1889d214a" />
+  </component>
+  <component name="ProjectId" id="1c2bfcquwY6hLQcOPD5VKNed419" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/Yarn/Data/global/node_modules/prettier" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\marek.kustosz\AppData\Local\Yarn\Data\global\node_modules\prettier" />
+    <property name="run.prettier.on.save" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+    <property name="ts.external.directory.path" value="D:\GitHub\MarKust71-arch\nestjs-test\backend\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GitHub\MarKust71-arch\nestjs-test\backend" />
+      <recent name="D:\GitHub\MarKust71-arch\nestjs-test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.start-front">
+    <configuration name="start-front" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start-front" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start:dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/backend/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start:dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.start-front" />
+      <item itemvalue="npm.start:dev" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start-front" />
+        <item itemvalue="npm.start:dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39a57b43-118b-4bf9-87bf-4ef5d293ae9a" name="Default Changelist" comment="" />
+      <changelist id="ae3f2221-e524-45b1-a413-2ec6a7a99c2a" name="Revert &quot;parcel and nestjs&quot;" comment="" />
+      <created>1589729739415</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589729739415</updated>
+      <workItem from="1589729745728" duration="1746000" />
+      <workItem from="1589735750576" duration="1007000" />
+      <workItem from="1589737049899" duration="187000" />
+      <workItem from="1589737274703" duration="5230000" />
+      <workItem from="1589743927248" duration="2524000" />
+    </task>
+    <task id="LOCAL-00001" summary="chgw">
+      <created>1589743079628</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589743079628</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Revert &quot;parcel and nestjs&quot;&#10;&#10;This reverts commit c6d8d965">
+      <created>1589743328596</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589743328596</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/backend" />
+    </ignored-roots>
+    <MESSAGE value="chgw" />
+    <MESSAGE value="Revert &quot;parcel and nestjs&quot;&#10;&#10;This reverts commit c6d8d965" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;parcel and nestjs&quot;&#10;&#10;This reverts commit c6d8d965" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589745638151">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="414" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589745638151" />
+    <state x="563" y="91" key="CommitChangelistDialog2" timestamp="1589743327471">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="563" y="91" key="CommitChangelistDialog2/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589743327471" />
+    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1589746197495">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589746197495" />
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1589746431891">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589746431891" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1589746431891">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589746431891" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1589746431891">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589746431891" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1589746431891">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589746431891" />
+    <state x="184" y="96" key="MergeDialog" timestamp="1589743316630">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="184" y="96" key="MergeDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589743316630" />
+    <state x="848" y="393" width="223" height="282" key="MultipleFileMergeDialog" timestamp="1589743316638">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="848" y="393" width="223" height="282" key="MultipleFileMergeDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589743316638" />
+    <state x="461" y="170" key="SettingsEditor" timestamp="1589746200432">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="170" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589746200432" />
+    <state x="807" y="439" key="VCS.ChangelistChooser" timestamp="1589743425022">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="807" y="439" key="VCS.ChangelistChooser/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589743425022" />
+    <state x="731" y="406" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1589741127129">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="731" y="406" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589741127129" />
+  </component>
+</project>

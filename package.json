@@ -1,0 +1,12 @@
+{
+  "devDependencies": {},
+  "name": "nestjs-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MarKust71-arch/nestjs-test.git",
+  "author": "MarKust71-arch <markust71@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start-front": "parcel ./public/index.html"
+  }
+}
