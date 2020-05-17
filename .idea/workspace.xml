@@ -26,24 +26,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39a57b43-118b-4bf9-87bf-4ef5d293ae9a" name="Default Changelist" comment="chgw">
-      <change afterPath="$PROJECT_DIR$/backend/.eslintrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/.prettierrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/nest-cli.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/app.controller.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/app.controller.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/app.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/test/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/test/jest-e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/tsconfig.build.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.prettierrc" beforeDir="false" afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/.prettierrc" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.prettierrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/app.controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/app.controller.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/app.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/app.service.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +126,7 @@
       <workItem from="1589737049899" duration="187000" />
       <workItem from="1589737274703" duration="5230000" />
       <workItem from="1589743927248" duration="4829000" />
-      <workItem from="1589748953203" duration="463000" />
+      <workItem from="1589748953203" duration="972000" />
     </task>
     <task id="LOCAL-00001" summary="chgw">
       <created>1589743079628</created>
@@ -175,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589749003655</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="nest added again">
+      <created>1589749428666</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1589749428666</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -270,10 +265,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="807" y="439" key="VCS.ChangelistChooser/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589743425022" />
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1589749107609">
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1589749444390">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589749107609" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589749444390" />
     <state x="731" y="406" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1589741127129">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
