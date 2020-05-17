@@ -26,12 +26,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39a57b43-118b-4bf9-87bf-4ef5d293ae9a" name="Default Changelist" comment="chgw">
-      <change afterPath="$PROJECT_DIR$/public/js/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
     </list>
-    <list id="ae3f2221-e524-45b1-a413-2ec6a7a99c2a" name="Revert &quot;parcel and nestjs&quot;" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +52,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/Yarn/Data/global/node_modules/prettier" />
@@ -115,7 +112,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="39a57b43-118b-4bf9-87bf-4ef5d293ae9a" name="Default Changelist" comment="" />
-      <changelist id="ae3f2221-e524-45b1-a413-2ec6a7a99c2a" name="Revert &quot;parcel and nestjs&quot;" comment="" />
+      <changelist id="" name="Revert &quot;parcel and nestjs&quot;" comment="" />
       <created>1589729739415</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -124,7 +121,7 @@
       <workItem from="1589735750576" duration="1007000" />
       <workItem from="1589737049899" duration="187000" />
       <workItem from="1589737274703" duration="5230000" />
-      <workItem from="1589743927248" duration="4243000" />
+      <workItem from="1589743927248" duration="4829000" />
     </task>
     <task id="LOCAL-00001" summary="chgw">
       <created>1589743079628</created>
@@ -147,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589746858956</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="nest added">
+      <created>1589748365343</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1589748365343</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,6 +200,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="563" y="91" key="CommitChangelistDialog2/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589743327471" />
+    <state x="92" y="92" width="1736" height="866" key="DiffContextDialog" timestamp="1589748625689">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="92" y="92" width="1736" height="866" key="DiffContextDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589748625689" />
     <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1589746197495">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -204,22 +212,22 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="820" y="447" key="Github.Dialog.Accounts.Choose/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589746791081" />
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1589747749319">
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1589748623567">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589747749319" />
-    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1589747749318">
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589748623567" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1589748623566">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589747749318" />
-    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1589747749318">
+    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589748623566" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1589748623566">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589747749318" />
-    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1589747749318">
+    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589748623566" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1589748623567">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589747749318" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589748623567" />
     <state x="184" y="96" key="MergeDialog" timestamp="1589743316630">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -236,10 +244,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="807" y="439" key="VCS.ChangelistChooser/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589743425022" />
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1589747215510">
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1589748462460">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589747215510" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589748462460" />
     <state x="731" y="406" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1589741127129">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
